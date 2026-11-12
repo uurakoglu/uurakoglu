@@ -10,3 +10,4 @@ for 15+ engineering applications.
   data cleanup
 - Writing: https://ugurakoglu.com/#writing
 - Website: https://ugurakoglu.com
+- Contact: ugur@ugurakoglu.com
